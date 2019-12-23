@@ -45,7 +45,7 @@ pilih = input('Scan ~> ') #user melakukan input
 print("===================")
 ########## PROSES........
 time.sleep(1)
-print ("[+] Scanning" + web)
+print ("[+] Scanning" +  web)
 
 if pilih == "1" or pilih == "01":
   print ("[+] SCAN BERHASIL HASIL:")
