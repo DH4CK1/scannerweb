@@ -15,14 +15,17 @@ except ModuleNotFoundError:
 ################################################################
 os.system('clear')
 banner = """
-         _______
-        <\> | </>
-          \/ \/
-           \|/
-           <|>
-            =
-        {Scanner}
+          _______
+         <\> | </>
+           \/ \/
+            \|/
+            <|>
+             =
+         {Scanner}
+   ======================
   <\>Code By Mr.D'HACK</>
+  </>Black Coder Crush<\>
+   ======================
 """
 print(banner)
 print ("* Masukan Website Hanya Dengan Domain (?.com) *")
